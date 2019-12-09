@@ -1,2 +1,2 @@
-# Mechanic Khunji API
-This is the backend api of মেকানিক খুঁজি app which is developed in Laravel.
+# Mechanic Khuji API
+Backend API of মেকানিক খুঁজি (Mechanic Khuji) app. The API is built using Laravel.
